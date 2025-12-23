@@ -1,0 +1,3 @@
+documento original de patrones de diseño:
+1.- singleton
+2.- strategi
