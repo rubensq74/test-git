@@ -6,3 +6,4 @@ documento original de patrones de diseño:
 5.- facade
 6.- prototype
 7.- factoryMethod
+8.- AbstractFactory
