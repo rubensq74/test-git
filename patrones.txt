@@ -4,3 +4,5 @@ documento original de patrones de diseño:
 3.- constructor
 4.- proxy
 5.- facade
+6.- prototype
+7.- factoryMethod
