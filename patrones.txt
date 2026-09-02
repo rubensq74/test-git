@@ -4,3 +4,4 @@ documento original de patrones de diseño:
 3.- constructor
 4.- proxy
 5.- facade
+7. adapter
