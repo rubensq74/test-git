@@ -1,6 +1,6 @@
 documento original de patrones de diseño:
 1.- singleton
-2.- strategi
+2.- strategy // mejora H4
 3.- constructor
 4.- proxy
 5.- facade
