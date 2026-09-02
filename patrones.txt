@@ -8,3 +8,4 @@ documento original de patrones de diseño:
 7. adapter
 8.- factoryMethod
 9.- AbstractFactory
+10.- patron nuevo // iniciativa feature-H1
