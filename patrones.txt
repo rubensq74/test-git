@@ -10,3 +10,5 @@ documento original de patrones de diseño:
 9.- AbstractFactory
 10.- patron de H1 // implemntacion de la historia H1
 11.- patron de h2 // implemnetacion H2
+12.- patron actuator // implement H3
+13.- patron xxxxxxx // implement H3
