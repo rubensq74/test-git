@@ -8,3 +8,5 @@ documento original de patrones de diseño:
 7. adapter
 8.- factoryMethod
 9.- AbstractFactory
+10.- patron de H1 // implemntacion de la historia H1
+11.- patron de h2 // implemnetacion H2
