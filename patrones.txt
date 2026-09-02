@@ -1,3 +1,12 @@
 documento original de patrones de diseño:
 1.- singleton
 2.- strategi
+3.- constructor
+4.- proxy
+5.- facade
+6.- prototype
+7. adapter
+8.- factoryMethod
+9.- AbstractFactory
+10.- patron de H1 // implemntacion de la historia H1
+11.- patron de h2 // implemnetacion H2
