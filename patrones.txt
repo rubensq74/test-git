@@ -12,3 +12,4 @@ documento original de patrones de diseño:
 11.- patron de h2 // implemnetacion H2
 12.- patron actuator // implement H3
 13.- patron xxxxxxx // implement H3
+14.- patron xxxxx8 // historia 8
